@@ -1,1 +1,62 @@
-theme: jekyll-theme-midnight
+# Welcome to Ekapope's page!
+
+# Website settings
+title: Ekapope Viriyakovithya
+description: Ekapope Viriyakovithya's blog,use Jekyll and github pages.
+keywords: Ekapope,Viriyakovithya,blog,Jekyll,github,gh-pages
+
+# author -- index page "about me" section
+author:  # change following line to your infomation.
+  name: # Be used at blog posts' author.
+  first_name: Ekapope # Be used at index page about me section.
+  last_name: Viriyakovithya # Be used at index page about me section.
+  avatar:  # upload your avatar at directory and edit it.
+  github_username: Ekapope # Leave blank if you don't have now
+  linkedin_id: Ekapope # Leave blank if you don't have now
+  facebook_username: # Leave blank if you don't have now
+  twitter_username: # Leave blank if you don't have now
+  email: ekapope.v@gmail.com  # Leave blank if you don't have now
+  cv: # An online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+  skill_icon1:
+    - name: icon-apache
+    - name: fa-linux
+  skill_icon2:
+    - name: fa-linux
+    - name: icon-apache
+  desc: My name is Ekapope Viriyakovithya. I am currently pursuing MSc Big Data Analytics for Business at IÉSEG School of Management (Lille, France) (EQUIS,AACSB,AMBA). My studies focus on several Business Analytics and Decision Making Tools (Commercial and Open Source) both  theoretical principles and operational analytical predictive modeling. I have a strong background in analytical thinking skill and I am fact-based decision maker. These skills have been gradually improved while I worked as the lead engineer in the oil field service company where I often apply the root cause analysis methodology and decision making skill through hands-on work experience to initiate the preventive solutions for future problems. I have been exposed to the fact-based management application and came to appreciate the importance of data-driven organization in particular.  # Describe yourself.
+
+# analytics
+## google analytics
+ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+  id: UA-128241029-1
+
+## google optimize
+go:
+  # id:
+
+## growingIO
+gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+  # id:
+
+## donation
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
+
+## carousels
+index_carousel: on  # index page carousel switch
+blog_carousel: on  # blog page carousel switch
+
+# scss
+sass:
+  style: compressed
+
+# Build settings
+encoding: utf-8
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
