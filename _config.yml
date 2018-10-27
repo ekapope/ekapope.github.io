@@ -70,3 +70,5 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+# add this line to overcome timezone publishing issue
+future: true
