@@ -68,5 +68,6 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-
+# set page color
+navbar-col: "#999999"
 page-col: "#999999"
