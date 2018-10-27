@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Ekapope.github.io
 
-You can use the [editor on GitHub](https://github.com/ekapope/ekapope.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Follow this link for my [LinkedIn](https://www.linkedin.com/in/ekapope/) profiles.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Ekapope Viriyakovithya. I am currently pursuing MSc Big Data Analytics for Business at IÉSEG School of Management (Lille, France) (EQUIS,AACSB,AMBA). My studies focus on several Business Analytics and Decision Making Tools (Commercial and Open Source) both  theoretical principles and operational analytical predictive modeling. 
 
-### Markdown
+I have a strong background in analytical thinking skill and I am fact-based decision maker. These skills have been gradually improved while I worked as the lead engineer in the oil field service company where I often apply the root cause analysis methodology and decision making skill through hands-on work experience to initiate the preventive solutions for future problems. I have been exposed to the fact-based management application and came to appreciate the importance of data-driven organization in particular.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ekapope/ekapope.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is some of my personal projects shared on GitHub.
+- [Basic tool for scraping property listings from Thailand housing site, written in Python using Beautiful Soup.](https://github.com/ekapope/Baania-webscraping)
+- [Web Scraping with Python using Selenium and BeautifulSoup (condomenium listings in Bangkok, Thailand).](https://github.com/ekapope/web-scraping-using-selenium-and-bs4)
+- [Estimate distance between two locations using Google Distance Matrix API (Python)](https://github.com/ekapope/Estimate-distance-between-two-locations-using-Google-Distance-Matrix-API)
+- [Estimate distance between two latitude/longitude locations (Python)](https://github.com/ekapope/Estimate-distance-between-two-latitude-longitude-locations-Python-)
+- [Using Google Map Geocoding API to retrieve GPS location from an input list (Python)](https://github.com/ekapope/Retrieve-GPS-location-using-google-map-api)
+- [Using multiple models to predict condominium price in Bangkok, Thailand.](https://github.com/ekapope/Using-multiple-models-to-predict-condominium-price-in-Bangkok-Thailand)
