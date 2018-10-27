@@ -1,5 +1,8 @@
 # Welcome to Jekyll!
 
+# add this line to overcome timezone publishing issue
+future: true
+
 # Website settings
 title: Ekapope
 description: Ekapope's blog,use Jekyll and github pages.
@@ -70,5 +73,3 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-# add this line to overcome timezone publishing issue
-future: true
