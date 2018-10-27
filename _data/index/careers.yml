@@ -1,29 +1,57 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: IÉSEG School of Management (Lille, France)
+    i18n: IÉSEG
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: 
+    i18n: IÉSEG_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: August 2018 - Present
+    i18n: IÉSEG_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: M.Sc. Big Data Analytics for Business
+    i18n: IÉSEG_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Pinpoint Geophysics
+    i18n: Pinpoint Geophysics
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Processsed, interpreted and reported Geonics EM61 and EM63 geophysical data for UXO detection, GIS and data management. Using statistically approach to analyze Geophysical Prove Out activities, compared with the client's specific Data Quality Objective standards, and drafted detailed reports for both client and internal usages. Training junior members in the use of processing software (Geosoft Oasis Montaj, QGIS)
+    i18n: Pinpoint Geophysics_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Jun 2017 to Jun 2018
+    i18n: Pinpoint Geophysics_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: UXO Geophysicist
+    i18n: Pinpoint Geophysics_job
+  icon: fa-plus-square
+
+- name:
+    detail: Schlumberger
+    i18n: Schlumberger
+  desc:
+    detail: Lead engineer on offshore jack up and tender drilling rigs worked with frequent full mobilization and maintenance activities along with challenging logistic constraints. Main clients were PTTEP and Chevron Thailand. Presented as focal point company representative at wellsite. Directly responsible for the quality of service delivered, ensure safety, quality and efficiency of operation are up to standards.
+    i18n: Schlumberger_desc
+  date:
+    detail: Jul 2011 - Oct 2016
+    i18n: Schlumberger_date
+  job:
+    detail: Junior - Senior Field Engineer - Wireline
+    i18n: Schlumberger_job
+  icon: fa-plus-square
+
+- name:
+    detail: Chulalongkorn University
+    i18n: Chulalongkorn
+  desc:
+    detail: Studied upstream oil and gas operation, petroleum economics, application of reservoir model simulation in hydrocarbon-in-place estimation and design the optimized production system.
+    i18n: Chulalongkorn_desc
+  date:
+    detail: June 2007 - May 2011
+    i18n: Chulalongkorn_date
+  job:
+    detail: B.Eng. Petroleum Engineering (second-class honours)
+    i18n: Chulalongkorn_job
   icon: fa-plus-square
