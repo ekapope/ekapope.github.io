@@ -9,14 +9,6 @@
   img: #/static/assets/img/landing/jekyll.png
   desc: This is the first episode of web scraping project which focused on condomenium listings in Bangkok, Thailand.
 
-- name: Web Scraping with Python using Selenium and BeautifulSoup.
-  i18n: Web Scraping
-  gh_user: Ekapope
-  repo: web-scraping-using-selenium-and-bs4
-  img: #/static/assets/img/landing/jekyll.png
-  desc: This is the second episode of web scraping project and we are still working on condomenium listings in Bangkok, Thailand.
-
-
 - name: Estimate distance between two locations using Google Distance Matrix API (Python)
   i18n: Google API
   gh_user: Ekapope
