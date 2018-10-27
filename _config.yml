@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Ekapope's page!
 
 # Website settings
@@ -71,3 +72,6 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+=======
+theme: jekyll-theme-midnight
+>>>>>>> parent of dd2c42f... Update page with jarrekk template
