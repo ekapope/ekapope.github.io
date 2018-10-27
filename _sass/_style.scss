@@ -51,14 +51,14 @@ h3, h4, h5 {
     color: #999c9e;
   }
   > li.active > a {
-    color: #fff;
+    color: #808080;
   }
 }
 
 .navbar-default .nav > li > a {
   &:focus, &:hover {
     background-color: #293846;
-    color: #fff;
+    color: #808080;
   }
 }
 
@@ -154,13 +154,13 @@ h3, h4, h5 {
 
 .navbar-default .landing_link a {
   background: #000066;
-  color: #fff;
+  color: #808080;
   &:hover {
     background: #000066 !important;
-    color: #fff;
+    color: #808080;
   }
   span.label {
-    background: #fff;
+    background: #808080;
     color: #000066;
   }
 }
@@ -211,7 +211,7 @@ body.canvas-menu .nav-header {
 
 .white-bg {
   .navbar-fixed-top, .navbar-static-top {
-    background: #fff;
+    background: #808080;
   }
 }
 
@@ -226,12 +226,12 @@ body.canvas-menu .nav-header {
     }
     a {
       &:focus, &:hover {
-        background: #fff;
+        background: #808080;
         color: #000066;
       }
     }
     &.active {
-      background: #fff;
+      background: #808080;
       border: none;
       > a {
         color: #000066;
@@ -257,7 +257,7 @@ body.canvas-menu .nav-header {
 
 .top-navigation .navbar-brand {
   background: #000066;
-  color: #fff;
+  color: #808080;
   padding: 15px 25px;
 }
 
@@ -306,7 +306,7 @@ body.canvas-menu .nav-header {
 
 .navbar-toggle {
   background-color: #000066;
-  color: #fff;
+  color: #808080;
   padding: 6px 12px;
   font-size: 14px;
 }
@@ -365,37 +365,37 @@ button.dim {
 }
 
 .btn-info.btn-outline:hover, .btn-primary.btn-outline:hover, .btn-success.btn-outline:hover, .btn-warning.btn-outline:hover {
-  color: #fff;
+  color: #808080;
 }
 
 .btn-primary {
   background-color: #000066;
   border-color: #000066;
-  color: #FFF;
+  color: #808080;
   &.active {
     background-color: #0073B1;
     border-color: #0073B1;
-    color: #FFF;
+    color: #808080;
     &:focus, &:hover {
       background-color: #0073B1;
       border-color: #0073B1;
-      color: #FFF;
+      color: #808080;
     }
   }
   &:active {
     background-color: #0073B1;
     border-color: #0073B1;
-    color: #FFF;
+    color: #808080;
     &:focus, &:hover {
       background-color: #0073B1;
       border-color: #0073B1;
-      color: #FFF;
+      color: #808080;
     }
   }
   &:focus, &:hover {
     background-color: #0073B1;
     border-color: #0073B1;
-    color: #FFF;
+    color: #808080;
   }
   &.active[disabled] {
     background-color: #0073B1;
@@ -414,31 +414,31 @@ button.dim {
 .btn-success {
   background-color: #1c84c6;
   border-color: #1c84c6;
-  color: #FFF;
+  color: #808080;
   &.active {
     background-color: #1a7bb9;
     border-color: #1a7bb9;
-    color: #FFF;
+    color: #808080;
     &:focus, &:hover {
       background-color: #1a7bb9;
       border-color: #1a7bb9;
-      color: #FFF;
+      color: #808080;
     }
   }
   &:active {
     background-color: #1a7bb9;
     border-color: #1a7bb9;
-    color: #FFF;
+    color: #808080;
     &:focus, &:hover {
       background-color: #1a7bb9;
       border-color: #1a7bb9;
-      color: #FFF;
+      color: #808080;
     }
   }
   &:focus, &:hover {
     background-color: #1a7bb9;
     border-color: #1a7bb9;
-    color: #FFF;
+    color: #808080;
   }
   &.active[disabled] {
     background-color: #1f90d8;
@@ -457,31 +457,31 @@ button.dim {
 .btn-info {
   background-color: #23c6c8;
   border-color: #23c6c8;
-  color: #FFF;
+  color: #808080;
   &.active {
     background-color: #21b9bb;
     border-color: #21b9bb;
-    color: #FFF;
+    color: #808080;
     &:focus, &:hover {
       background-color: #21b9bb;
       border-color: #21b9bb;
-      color: #FFF;
+      color: #808080;
     }
   }
   &:active {
     background-color: #21b9bb;
     border-color: #21b9bb;
-    color: #FFF;
+    color: #808080;
     &:focus, &:hover {
       background-color: #21b9bb;
       border-color: #21b9bb;
-      color: #FFF;
+      color: #808080;
     }
   }
   &:focus, &:hover {
     background-color: #21b9bb;
     border-color: #21b9bb;
-    color: #FFF;
+    color: #808080;
   }
   &.active[disabled] {
     background-color: #26d7d9;
@@ -499,7 +499,7 @@ button.dim {
 
 .btn-default {
   color: inherit;
-  background: #fff;
+  background: #808080;
   border: 1px solid #e7eaec;
 }
 
@@ -550,31 +550,31 @@ button.dim {
 .btn-warning {
   background-color: #f8ac59;
   border-color: #f8ac59;
-  color: #FFF;
+  color: #808080;
   &.active {
     background-color: #f7a54a;
     border-color: #f7a54a;
-    color: #FFF;
+    color: #808080;
     &:focus, &:hover {
       background-color: #f7a54a;
       border-color: #f7a54a;
-      color: #FFF;
+      color: #808080;
     }
   }
   &:active {
     background-color: #f7a54a;
     border-color: #f7a54a;
-    color: #FFF;
+    color: #808080;
     &:focus, &:hover {
       background-color: #f7a54a;
       border-color: #f7a54a;
-      color: #FFF;
+      color: #808080;
     }
   }
   &:focus, &:hover {
     background-color: #f7a54a;
     border-color: #f7a54a;
-    color: #FFF;
+    color: #808080;
   }
   &.active[disabled] {
     background-color: #f9b66d;
@@ -609,7 +609,7 @@ button.dim {
 
 .btn-white {
   color: inherit;
-  background: #fff;
+  background: #808080;
   border: 1px solid #e7eaec;
   &.active {
     color: inherit;
@@ -731,7 +731,7 @@ button {
     font-size: 50px;
     line-height: 1em;
     font-weight: 400;
-    color: #fff;
+    color: #808080;
     display: block;
     padding-top: 10px;
   }
@@ -761,31 +761,31 @@ button.dim:active:before {
 
 .label-primary {
   background-color: #000066;
-  color: #FFF;
+  color: #808080;
 }
 
 .label-success {
   background-color: #1c84c6;
-  color: #FFF;
+  color: #808080;
 }
 
 .label-warning {
   background-color: #f8ac59;
-  color: #FFF;
+  color: #808080;
 }
 
 .label-warning-light {
   background-color: #f8ac59;
-  color: #fff;
+  color: #808080;
 }
 
 .label-info {
   background-color: #23c6c8;
-  color: #FFF;
+  color: #808080;
 }
 
 .label-white {
-  background-color: #FFF;
+  background-color: #808080;
   color: #5E5E5E;
   background-color: #2A2E36;
   color: #8B91A0;
@@ -852,7 +852,7 @@ button.dim:active:before {
 }
 
 .form-control {
-  background-color: #FFF;
+  background-color: #808080;
   background-image: none;
   border: 1px solid #e5e6e7;
   border-radius: 1px;
@@ -1120,7 +1120,7 @@ label.error {
 .vertical-timeline-content {
   position: relative;
   margin-left: 60px;
-  background: #fff;
+  background: #808080;
   border-radius: .25em;
   padding: 1em;
   &:after {
@@ -1155,7 +1155,7 @@ label.error {
   height: 0;
   width: 0;
   border: 7px solid transparent;
-  border-right: 7px solid #fff;
+  border-right: 7px solid #808080;
 }
 
 @media only screen and (min-width: 768px) {
@@ -1178,7 +1178,7 @@ label.error {
       &::before {
         top: 24px;
         left: 100%;
-        border-color: transparent transparent transparent #fff;
+        border-color: transparent transparent transparent #808080;
       }
       .btn {
         float: left;
@@ -1202,7 +1202,7 @@ label.error {
         top: 24px;
         left: auto;
         right: 100%;
-        border-color: transparent #fff transparent transparent;
+        border-color: transparent #808080 transparent transparent;
       }
       .vertical-date {
         left: auto;
@@ -1338,7 +1338,7 @@ a {
 }
 
 img.circle-border {
-  border: 6px solid #FFF;
+  border: 6px solid #808080;
   border-radius: 50%;
 }
 
@@ -1360,7 +1360,7 @@ code {
 }
 
 .ibox-content, .ibox-title {
-  background-color: #fff;
+  background-color: #808080;
   border-color: #e7eaec;
   border-image: none;
   border-style: solid solid none;
@@ -1426,12 +1426,12 @@ code {
 }
 
 .white-bg {
-  background-color: #fff;
+  background-color: #808080;
 }
 
 .navy-bg {
   background-color: #000066;
-  color: #fff;
+  color: #808080;
 }
 
 .panel-primary {
@@ -1479,11 +1479,11 @@ code {
 }
 
 .text-white {
-  color: #fff;
+  color: #808080;
 }
 
 .contact-box, .light-navbar .navbar.navbar-static-top {
-  background-color: #fff;
+  background-color: #808080;
 }
 
 a.close-canvas-menu {
@@ -1493,7 +1493,7 @@ a.close-canvas-menu {
   z-index: 1011;
   color: #a7b1c2;
   &:hover {
-    color: #fff;
+    color: #808080;
   }
 }
 
@@ -1743,7 +1743,7 @@ ul.clear-list:first-child {
 .file {
   border: 1px solid #e7eaec;
   padding: 0;
-  background-color: #fff;
+  background-color: #808080;
   position: relative;
   margin-bottom: 20px;
   margin-right: 20px;
@@ -1818,7 +1818,7 @@ ul.clear-list:first-child {
 }
 
 .mail-box {
-  background-color: #fff;
+  background-color: #808080;
   border: 1px solid #e7eaec;
   border-top: 0;
   padding: 0;
@@ -1830,7 +1830,7 @@ ul.clear-list:first-child {
 }
 
 .mail-box-header {
-  background-color: #fff;
+  background-color: #808080;
   border: 1px solid #e7eaec;
   border-bottom: 0;
   padding: 30px 20px 20px;
@@ -1902,7 +1902,7 @@ ul.clear-list:first-child {
 
 .social-feed-box {
   border: 1px solid #e7eaec;
-  background: #fff;
+  background: #808080;
   margin-bottom: 15px;
 }
 
@@ -1948,7 +1948,7 @@ ul.clear-list:first-child {
 
 .vote-item {
   padding: 20px 25px;
-  background: #fff;
+  background: #808080;
   &:last-child {
     border-bottom: 1px solid #e7eaec;
   }
@@ -2009,7 +2009,7 @@ body {
   &.landing-page {
     color: #676a6c;
     font-family: 'Open Sans', helvetica, arial, sans-serif;
-    background-color: #fff;
+    background-color: #808080;
   }
 }
 
@@ -2399,15 +2399,15 @@ body {
   }
   .navbar-default {
     &.navbar-scroll {
-      background-color: #fff;
-      border-color: #fff;
+      background-color: #808080;
+      border-color: #808080;
       padding: 15px 0;
     }
     background-color: transparent;
     border-color: transparent;
     transition: all .3s ease-in-out 0s;
     .nav li a {
-      color: #fff;
+      color: #808080;
       font-family: 'Open Sans', helvetica, arial, sans-serif;
       font-weight: 700;
       letter-spacing: 1px;
@@ -2423,11 +2423,11 @@ body {
     .navbar-nav > {
       .active > a {
         background: 0 0;
-        color: #fff;
+        color: #808080;
         border-top: 6px solid #000066;
         &:hover {
           background: 0 0;
-          color: #fff;
+          color: #808080;
           border-top: 6px solid #000066;
         }
       }
@@ -2439,7 +2439,7 @@ body {
       }
       .active > a:focus {
         background: 0 0;
-        color: #fff;
+        color: #808080;
       }
     }
     &.navbar-scroll .navbar-nav > .active > a:focus {
@@ -2449,9 +2449,9 @@ body {
     .navbar-brand {
       &:focus, &:hover {
         background: #000066;
-        color: #fff;
+        color: #808080;
       }
-      color: #fff;
+      color: #808080;
       height: auto;
       display: block;
       font-size: 14px;
@@ -2586,7 +2586,7 @@ body {
     }
   }
   .caption-link {
-    color: #fff;
+    color: #808080;
     margin-left: 10px;
     text-transform: capitalize;
     font-weight: 400;
@@ -2614,7 +2614,7 @@ body {
   .navy-section {
     margin-top: 60px;
     background: #000066;
-    color: #fff;
+    color: #808080;
     padding: 20px 0;
   }
   .gray-section {
@@ -2629,7 +2629,7 @@ body {
   }
   .social-icon a {
     background: #000066;
-    color: #fff;
+    color: #808080;
     padding: 4px 8px;
     height: 28px;
     width: 28px;
@@ -2678,16 +2678,16 @@ body {
     }
   }
   .btn-info.btn-outline:hover, .btn-primary.btn-outline:hover, .btn-success.btn-outline:hover, .btn-warning.btn-outline:hover {
-    color: #fff;
+    color: #808080;
   }
   .btn-primary {
     background-color: #000066;
     border-color: #000066;
-    color: #FFF;
+    color: #808080;
     &.active, &:active, &:focus, &:hover {
       background-color: #000066;
       border-color: #000066;
-      color: #FFF;
+      color: #808080;
     }
     padding: 10px 20px;
     &.active, &:active {
@@ -2753,8 +2753,8 @@ body {
       margin-top: 6px;
     }
     .navbar-default {
-      background-color: #fff;
-      border-color: #fff;
+      background-color: #808080;
+      border-color: #808080;
       padding: 15px 0;
       .navbar-nav > .active > a:focus {
         background: 0 0;
@@ -2803,7 +2803,7 @@ body {
       display: block;
       float: none;
       .navbar-toggle {
-        background-color: #fff;
+        background-color: #808080;
         padding: 9px 10px;
         border: none;
       }
