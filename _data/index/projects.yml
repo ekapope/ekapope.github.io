@@ -2,14 +2,14 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: Scraping property listings from Thailand housing site, written in Python using Beautiful Soup.
+- name: Web Scraping property listings from housing site, written in Python using BeautifulSoup.
   i18n: Web Scraping
   gh_user: Ekapope
   repo: Baania-webscraping
   img: #/static/assets/img/landing/jekyll.png
   desc: This is the first episode of web scraping project which focused on condomenium listings in Bangkok, Thailand.
 
-- name: Web Scraping with Python using Selenium and BeautifulSoup (condomenium listings in Bangkok, Thailand)
+- name: Web Scraping with Python using Selenium and BeautifulSoup.
   i18n: Web Scraping
   gh_user: Ekapope
   repo: web-scraping-using-selenium-and-bs4
@@ -24,7 +24,7 @@
   img: #/static/assets/img/landing/jekyll.png
   desc: Estimated distance between properties and metro stations using google map API, then use this data in the ML model for property price prediction.
 
-- name: Using multiple models to predict condominium price in Bangkok, Thailand.
+- name: Using multiple models to predict condominium price.
   i18n: ML
   gh_user: Ekapope
   repo: Using-multiple-models-to-predict-condominium-price-in-Bangkok-Thailand
