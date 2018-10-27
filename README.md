@@ -1,6 +1,6 @@
 ## Welcome to Ekapope.github.io
 
-Follow this link for my [LinkedIn](https://www.linkedin.com/in/ekapope/) profiles.
+[My LinkedIn profiles.](https://www.linkedin.com/in/ekapope/)
 
 My name is Ekapope Viriyakovithya. I am currently pursuing MSc Big Data Analytics for Business at IÉSEG School of Management (Lille, France) (EQUIS,AACSB,AMBA). My studies focus on several Business Analytics and Decision Making Tools (Commercial and Open Source) both  theoretical principles and operational analytical predictive modeling. 
 
