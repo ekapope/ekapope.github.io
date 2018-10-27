@@ -10,7 +10,7 @@ keywords: Ekapope,Viriyakovithya,blog,Jekyll,github,gh-pages
 baseurl:  /Ekapope # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://Ekapope.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: # /Ekapope/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path:  /Ekapope/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
@@ -31,8 +31,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc:  My name is Ekapope Viriyakovithya. I am currently pursuing MSc Big Data Analytics for Business at IÉSEG School of Management (Lille, France) (EQUIS,AACSB,AMBA). My studies focus on several Business Analytics and Decision Making Tools (Commercial and Open Source) both  theoretical principles and operational analytical predictive modeling. I have a strong background in analytical thinking skill and I am fact-based decision maker. These skills have been gradually improved while I worked as the lead engineer in the oil field service company where I often apply the root cause analysis methodology and decision making skill through hands-on work experience to initiate the preventive solutions for future problems. I have been exposed to the fact-based management application and came to appreciate the importance of data-driven organization in particular.
-# Describe yourself. 
+  desc:  My name is Ekapope Viriyakovithya. I am currently pursuing MSc Big Data Analytics for Business at IÉSEG School of Management (Lille, France) (EQUIS,AACSB,AMBA). My studies focus on several Business Analytics and Decision Making Tools (Commercial and Open Source) both  theoretical principles and operational analytical predictive modeling. I have a strong background in analytical thinking skill and I am fact-based decision maker. These skills have been gradually improved while I worked as the lead engineer in the oil field service company where I often apply the root cause analysis methodology and decision making skill through hands-on work experience to initiate the preventive solutions for future problems. I have been exposed to the fact-based management application and came to appreciate the importance of data-driven organization in particular. # Describe yourself. 
 
 
 # comment
@@ -45,7 +44,7 @@ ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get
   id: UA-128241029-1
 
 ## google optimize
-#go:
+go:
   # id:
 
 ## growingIO
