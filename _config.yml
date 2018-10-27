@@ -11,7 +11,7 @@ author:  # change following line to your infomation.
   first_name: Ekapope # Be used at index page about me section.
   last_name: Viriyakovithya # Be used at index page about me section.
   avatar:  # upload your avatar at directory and edit it.
-  github_username: Ekapope # Leave blank if you don't have now
+  github_username: # Leave blank if you don't have now
   linkedin_id: Ekapope # Leave blank if you don't have now
   facebook_username: # Leave blank if you don't have now
   twitter_username: # Leave blank if you don't have now
@@ -24,7 +24,9 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: My name is Ekapope Viriyakovithya. I am currently pursuing MSc Big Data Analytics for Business at IÉSEG School of Management (Lille, France) (EQUIS,AACSB,AMBA). My studies focus on several Business Analytics and Decision Making Tools (Commercial and Open Source) both  theoretical principles and operational analytical predictive modeling. I have a strong background in analytical thinking skill and I am fact-based decision maker. These skills have been gradually improved while I worked as the lead engineer in the oil field service company where I often apply the root cause analysis methodology and decision making skill through hands-on work experience to initiate the preventive solutions for future problems. I have been exposed to the fact-based management application and came to appreciate the importance of data-driven organization in particular.  # Describe yourself.
+  desc: # Describe yourself.
+  My name is Ekapope Viriyakovithya. I am currently pursuing MSc Big Data Analytics for Business at IÉSEG School of Management (Lille, France) (EQUIS,AACSB,AMBA). My studies focus on several Business Analytics and Decision Making Tools (Commercial and Open Source) both  theoretical principles and operational analytical predictive modeling.
+  I have a strong background in analytical thinking skill and I am fact-based decision maker. These skills have been gradually improved while I worked as the lead engineer in the oil field service company where I often apply the root cause analysis methodology and decision making skill through hands-on work experience to initiate the preventive solutions for future problems. I have been exposed to the fact-based management application and came to appreciate the importance of data-driven organization in particular.
 
 # analytics
 ## google analytics
