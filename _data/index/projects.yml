@@ -2,19 +2,19 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: Scraping property listings from Thailand housing site, written in Python using Beautiful Soup.
+  i18n: Scraping
+  gh_user: Ekapope
+  repo: Baania-webscraping
+  img: #/static/assets/img/landing/jekyll.png
+  desc: This is the first episode of web scraping project which focused on condomenium listings in Bangkok, Thailand. You can find my second project here.
 
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: Using multiple models to predict condominium price in Bangkok, Thailand.
+  i18n: ML
+  gh_user: Ekapope
+  repo: Using-multiple-models-to-predict-condominium-price-in-Bangkok-Thailand
+  img: #/static/assets/img/landing/jekyll.png
+  desc: Estimating condominium price in Bangkok, Thailand using Python.
 
 #- name: Python
 #  i18n: cpython
