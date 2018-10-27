@@ -3,18 +3,34 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
 - name: Scraping property listings from Thailand housing site, written in Python using Beautiful Soup.
-  i18n: Scraping
+  i18n: Web Scraping
   gh_user: Ekapope
   repo: Baania-webscraping
   img: #/static/assets/img/landing/jekyll.png
-  desc: This is the first episode of web scraping project which focused on condomenium listings in Bangkok, Thailand. You can find my second project here.
+  desc: This is the first episode of web scraping project which focused on condomenium listings in Bangkok, Thailand.
+
+- name: Web Scraping with Python using Selenium and BeautifulSoup (condomenium listings in Bangkok, Thailand)
+  i18n: Web Scraping
+  gh_user: Ekapope
+  repo: web-scraping-using-selenium-and-bs4
+  img: #/static/assets/img/landing/jekyll.png
+  desc: This is the second episode of web scraping project and we are still working on condomenium listings in Bangkok, Thailand.
+
+
+- name: Estimate distance between two locations using Google Distance Matrix API (Python)
+  i18n: Google API
+  gh_user: Ekapope
+  repo: Estimate-distance-between-two-locations-using-Google-Distance-Matrix-API
+  img: #/static/assets/img/landing/jekyll.png
+  desc: Estimated distance between properties and metro stations using google map API, then use this data in the ML model for property price prediction.
 
 - name: Using multiple models to predict condominium price in Bangkok, Thailand.
   i18n: ML
   gh_user: Ekapope
   repo: Using-multiple-models-to-predict-condominium-price-in-Bangkok-Thailand
   img: #/static/assets/img/landing/jekyll.png
-  desc: Estimating condominium price in Bangkok, Thailand using Python.
+  desc: Using scraped data from the website, predicted condominium price in Bangkok, Thailand using Python.
+
 
 #- name: Python
 #  i18n: cpython
