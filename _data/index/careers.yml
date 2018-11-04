@@ -1,57 +1,57 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: IÉSEG School of Management (Lille, France)
-    i18n: IÉSEG
+    detail: IÉSEG School of Management [Lille, France]
+    i18n: 
   desc:
     detail: Exposure to fact-based management through the introduction of leading tools and methodologies that convert data to knowledge.
-    i18n: IÉSEG_desc
+    i18n: 
   date:
     detail: August 2018 - Present
-    i18n: IÉSEG_date
+    i18n: 
   job:
     detail: M.Sc. Big Data Analytics for Business
-    i18n: IÉSEG_job
+    i18n: 
   icon: fa-plus-square
 
 - name:
     detail: Pinpoint Geophysics
-    i18n: Pinpoint Geophysics
+    i18n:  
   desc:
-    detail: Processsed, interpreted and reported Geonics EM61 and EM63 geophysical data for UXO detection, GIS and data management. Using statistically approach to analyze Geophysical Prove Out activities, compared with the client's specific Data Quality Objective standards, and drafted detailed reports for both client and internal usages. Training junior members in the use of processing software (Geosoft Oasis Montaj, QGIS)
-    i18n: Pinpoint Geophysics_desc
+    detail: Used statistically approaches to analyze Geophysical Prove Out activities, benchmarked with the client's specific Data Quality Objective standards, and summarized findings for clients. Processsed, interpreted and reported Geonics EM61 and EM63 geophysical data for UXO detection, GIS and data management. Trained junior members in the use of processing softwares (Geosoft Oasis Montaj, QGIS)
+    i18n:  
   date:
     detail: Jun 2017 to Jun 2018
-    i18n: Pinpoint Geophysics_date
+    i18n:  
   job:
     detail: UXO Geophysicist
-    i18n: Pinpoint Geophysics_job
+    i18n:  
   icon: fa-plus-square
 
 - name:
     detail: Schlumberger
-    i18n: Schlumberger
+    i18n: 
   desc:
-    detail: Lead engineer on offshore jack up and tender drilling rigs worked with frequent full mobilization and maintenance activities along with challenging logistic constraints. Main clients were PTTEP and Chevron Thailand. Presented as focal point company representative at wellsite. Directly responsible for the quality of service delivered, ensure safety, quality and efficiency of operation are up to standards.
-    i18n: Schlumberger_desc
+    detail: Worked as lead engineer on offshore drilling rigs with frequent full mobilization and maintenance activities along with challenging logistic constraints. Main clients were PTTEP and Chevron Thailand. Presented as focal point company representative at wellsite. Directly responsible for the quality of service delivered, ensure safety, quality and efficiency of operation are up to standards.
+    i18n: 
   date:
     detail: Jul 2011 - Oct 2016
-    i18n: Schlumberger_date
+    i18n: 
   job:
-    detail: Junior - Senior Field Engineer - Wireline
-    i18n: Schlumberger_job
+    detail: Senior Field Engineer - Wireline
+    i18n: 
   icon: fa-plus-square
 
 - name:
-    detail: Chulalongkorn University
-    i18n: Chulalongkorn
+    detail: Chulalongkorn University [Bangkok, Thailand]
+    i18n: 
   desc:
     detail: Studied upstream oil and gas operation, petroleum economics, application of reservoir model simulation in hydrocarbon-in-place estimation and design the optimized production system.
-    i18n: Chulalongkorn_desc
+    i18n: 
   date:
     detail: June 2007 - May 2011
-    i18n: Chulalongkorn_date
+    i18n: 
   job:
-    detail: B.Eng. Petroleum Engineering (second-class honours)
-    i18n: Chulalongkorn_job
+    detail: B.Eng. Petroleum Engineering [Second-class honours]
+    i18n: 
   icon: fa-plus-square
