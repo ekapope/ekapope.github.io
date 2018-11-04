@@ -3,21 +3,21 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
 - name: Web Scraping property listings from housing site, written in Python using BeautifulSoup.
-  i18n: Web Scraping
+  i18n: 
   gh_user: Ekapope
   repo: Baania-webscraping
   img: #/static/assets/img/landing/jekyll.png
   desc: This is the first episode of web scraping project which focused on condomenium listings in Bangkok, Thailand.
 
 - name: Estimate distance between two locations using Google Distance Matrix API (Python)
-  i18n: Google API
+  i18n: 
   gh_user: Ekapope
   repo: Estimate-distance-between-two-locations-using-Google-Distance-Matrix-API
   img: #/static/assets/img/landing/jekyll.png
   desc: Estimated distance between properties and metro stations using google map API, then use this data in the ML model for property price prediction.
 
 - name: Using multiple models to predict condominium price.
-  i18n: ML
+  i18n: 
   gh_user: Ekapope
   repo: Using-multiple-models-to-predict-condominium-price-in-Bangkok-Thailand
   img: #/static/assets/img/landing/jekyll.png
