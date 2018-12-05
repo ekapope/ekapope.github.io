@@ -4,7 +4,8 @@
     detail: IÉSEG School of Management [Lille, France]
     i18n: 
   desc:
-    detail: Exposure to fact-based management through the introduction of leading tools and methodologies that convert data to knowledge.
+    detail: Hands on experiences of data science tools [Python, R, SAS, SQL,Tableau, PowerBI, Excel VBA]. Descriptive and predictive modeling, statistical and machine learning algorithms.
+
     i18n: 
   date:
     detail: August 2018 - Present
@@ -32,7 +33,7 @@
     detail: Schlumberger
     i18n: 
   desc:
-    detail: Worked as lead engineer on offshore drilling rigs with frequent full mobilization and maintenance activities along with challenging logistic constraints. Main clients were PTTEP and Chevron Thailand. Presented as focal point company representative at wellsite. Directly responsible for the quality of service delivered, ensure safety, quality and efficiency of operation are up to standards.
+    detail: Project leader of asset traceability implementation for Thailand, Myanmar and Vietnam. Developed workflow and coached internal staffs.  The goal was to improve data capture accuracy, asset utilization and traceability using Tableau platform. Up to 20% of under-utilized assets were transferred to the centralized facility to maximize asset utilization.
     i18n: 
   date:
     detail: Jul 2011 - Oct 2016
@@ -46,7 +47,7 @@
     detail: Chulalongkorn University [Bangkok, Thailand]
     i18n: 
   desc:
-    detail: Studied upstream oil and gas operation, petroleum economics, application of reservoir model simulation in hydrocarbon-in-place estimation and design the optimized production system.
+    detail: Focused on application of mathematical reservoir model simulation for hydrocarbon-in-place estimation, production optimization strategies, petroleum economics and upstream oil industry operations. Thesis topic was simulation of water coning control for gas production optimization in the Bongkot field, Gulf of Thailand.
     i18n: 
   date:
     detail: June 2007 - May 2011

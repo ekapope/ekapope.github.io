@@ -9,6 +9,13 @@
   img: #/static/assets/img/landing/jekyll.png
   desc: This is the first episode of web scraping project which focused on condomenium listings in Bangkok, Thailand.
 
+- name: Weather Alert Notification via Gmail and Twitter (Python)
+  i18n: 
+  gh_user: Ekapope
+  repo: WeatherAlertNotification
+  img: #/static/assets/img/landing/jekyll.png
+  desc: Weather Alert Notification via Gmail and Twitter API [data from AccuWeather API]. Since you are checking emails and social media anyway, do not waste your time checking the weather on the separated app. It is now live on your mail box and twitter feed!
+
 - name: Estimate distance between two locations using Google Distance Matrix API (Python)
   i18n: 
   gh_user: Ekapope
