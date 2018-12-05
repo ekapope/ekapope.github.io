@@ -2,28 +2,28 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: Web Scraping property listings from housing site, written in Python using BeautifulSoup.
+- name: Web Scraping property listings from housing site using BeautifulSoup  [Python]
   i18n: 
   gh_user: Ekapope
   repo: Baania-webscraping
   img: #/static/assets/img/landing/jekyll.png
   desc: This is the first episode of web scraping project which focused on condomenium listings in Bangkok, Thailand.
 
-- name: Weather Alert Notification via Gmail and Twitter (Python)
+- name: Weather Alert Notification via Gmail and Twitter [Python]
   i18n: 
   gh_user: Ekapope
   repo: WeatherAlertNotification
   img: #/static/assets/img/landing/jekyll.png
   desc: Weather Alert Notification via Gmail and Twitter API [data from AccuWeather API]. Since you are checking emails and social media anyway, do not waste your time checking the weather on the separated app. It is now live on your mail box and twitter feed!
 
-- name: Estimate distance between two locations using Google Distance Matrix API (Python)
+- name: Estimate distance between two locations using Google Distance Matrix API [Python]
   i18n: 
   gh_user: Ekapope
   repo: Estimate-distance-between-two-locations-using-Google-Distance-Matrix-API
   img: #/static/assets/img/landing/jekyll.png
   desc: Estimated distance between properties and metro stations using google map API, then use this data in the ML model for property price prediction.
 
-- name: Using multiple models to predict condominium price.
+- name: Using multiple ML models to predict condominium price [Python]
   i18n: 
   gh_user: Ekapope
   repo: Using-multiple-models-to-predict-condominium-price-in-Bangkok-Thailand
