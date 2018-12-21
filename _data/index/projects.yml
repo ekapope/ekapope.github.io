@@ -36,11 +36,11 @@
   img: https://amp.businessinsider.com/images/55a89cf42acae732118b73ee-750-563.jpg
   desc: bwin Interactive Entertainment AG, created ‘marketing data mart’ and  explored marketing insights. Presented in R markdown and Shiny app. 
 
-- name: 2013 NYC flight delays anylysis [Tableau]
-  i18n: 
-  url: https://public.tableau.com/profile/ekapope#!/vizhome/20181207_Yelp_Assignment_Ekapope_Viriyakovithya_1024x768/YelpDatasetAnalysisEkapopeViriyakovithya
-  img: https://static-s.aa-cdn.net/img/ios/780465361/2ea929c97d600cfc7325d4f42b2faa53?v=1
-  desc: Investigate different aspects of delays from the different New York City airports. [https://cran.r-project.org/web/packages/nycflights13/index.html]
+# - name: 2013 NYC flight delays anylysis [Tableau]
+#   i18n: 
+#   url: https://public.tableau.com/profile/ekapope#!/vizhome/20181207_Yelp_Assignment_Ekapope_Viriyakovithya_1024x768/YelpDatasetAnalysisEkapopeViriyakovithya
+#   img: https://static-s.aa-cdn.net/img/ios/780465361/2ea929c97d600cfc7325d4f42b2faa53?v=1
+#   desc: Investigate different aspects of delays from the different New York City airports. [https://cran.r-project.org/web/packages/nycflights13/index.html]
 
 - name: 2018 Yelp Dataset Analysis [Tableau]
   i18n: 
