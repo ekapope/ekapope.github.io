@@ -13,7 +13,7 @@
   i18n: 
   gh_user: Ekapope
   repo: WeatherAlertNotification
-  img: #/static/assets/img/landing/jekyll.png
+  img: https://github.com/ekapope/WeatherAlertNotification/blob/master/Capture_Tweets.PNG
   desc: Weather Alert Notification via Gmail and Twitter API [data from AccuWeather API]. Since you are checking emails and social media anyway, do not waste your time checking the weather on the separated app. It is now live on your mail box and twitter feed!
 
 - name: Estimate distance between two locations using Google Distance Matrix API [Python]
@@ -30,6 +30,11 @@
   img: #/static/assets/img/landing/jekyll.png
   desc: Using scraped data from the website, predicted condominium price in Bangkok, Thailand using Python.
 
+- name: 2018 Yelp Dataset Analysis [Tableau]
+ i18n: 
+ url: https://public.tableau.com/profile/ekapope#!/vizhome/20181207_Yelp_Assignment_Ekapope_Viriyakovithya_1024x768/YelpDatasetAnalysisEkapopeViriyakovithya
+ img: https://s3-media2.fl.yelpcdn.com/assets/srv0/yelp_large_assets/19f90cad684f/assets/img/brand_guidelines/Yelp_RGB_fullcolor_outline.png
+ desc: The data is extracted and subsetted from the Yelp webpage (https://www.yelp.com/dataset/challenge), with only 5000 businesses. This report is part of individual assignment for Business Reporting Tools class 2018/19 at IESEG.
 
 #- name: Python
 #  i18n: cpython
@@ -43,3 +48,8 @@
 #  url: https://google.com
 #  img: /static/assets/img/landing/google.png
 #  desc: This is another project.
+
+
+
+
+
