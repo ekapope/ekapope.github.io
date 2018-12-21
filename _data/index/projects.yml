@@ -2,7 +2,7 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: Web Scraping property listings from housing site using BeautifulSoup  [Python]
+- name: Web Scraping property listings from property listing site in Thailand  [Python]
   i18n: 
   gh_user: Ekapope
   repo: Baania-webscraping
