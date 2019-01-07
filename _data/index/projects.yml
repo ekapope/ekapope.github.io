@@ -22,6 +22,13 @@
   img: https://cerebral-overload.com/wp-content/uploads/2018/01/Accuweather-Logo.png
   desc: Weather Alert Notification via Gmail and Twitter API [data from AccuWeather API]. Since you are checking emails and social media anyway, do not waste your time checking the weather on the separated app. It is now live on your mail box and twitter feed!
 
+- name: Weather Alert Notification via Facebook Chat [Python]
+  i18n: 
+  gh_user: Ekapope
+  repo: Weather_Alert_Notification_Facebook_Chat
+  img: https://github.com/ekapope/Weather_Alert_Notification_Facebook_Chat/blob/master/Capture_Facebook_Chat_msg.PNG?raw=true
+  desc: Weather Alert Notification via Facebook Chat [data from AccuWeather API]. A simplified version of automated weather alert, no need for facebook API.
+
 # - name: Estimate distance between two locations using Google Distance Matrix API [Python]
 #   i18n: 
 #   gh_user: Ekapope
