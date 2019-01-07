@@ -40,7 +40,7 @@
   i18n:
   url: https://ekapopev.shinyapps.io/Open-Source-Group-11/
   img: https://amp.businessinsider.com/images/55a89cf42acae732118b73ee-750-563.jpg
-  desc: bwin Interactive Entertainment AG, created ‘marketing data mart’ and  explored marketing insights. Presented in R markdown and Shiny app. 
+  desc: Data from bwin Interactive Entertainment AG, created ‘marketing data mart’ and  explored marketing insights. Presented in R markdown and Shiny app. 
 
 - name: 2013 NYC flight delays anylysis [Tableau]
   i18n: 
