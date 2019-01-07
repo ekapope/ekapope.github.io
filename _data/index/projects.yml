@@ -6,8 +6,8 @@
   i18n: 
   url: https://medium.com/@ekapope.v
   img: https://medium.com/icons/monogram-mask.svg
-  desc: My personal blog related to every application of programming and automation
-  
+  desc: My personal blog related to useful applications of programming and automated tasks.
+
 - name: Web Scraping property listings from property listing site in Thailand  [Python]
   i18n: 
   gh_user: Ekapope
