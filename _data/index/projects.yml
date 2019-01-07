@@ -26,7 +26,7 @@
   i18n: 
   gh_user: Ekapope
   repo: Weather_Alert_Notification_Facebook_Chat
-  img: https://github.com/ekapope/Weather_Alert_Notification_Facebook_Chat/blob/master/Capture_Facebook_Chat_msg.PNG?raw=true
+  img: https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/44586006_2210757209043947_2194322383781756928_n.jpg?_nc_cat=1&_nc_ht=scontent-cdg2-1.xx&oh=7771f0c13468a44d1c08f6b96935e418&oe=5CBE6212
   desc: Weather Alert Notification via Facebook Chat [data from AccuWeather API]. A simplified version of automated weather alert, no need for facebook API.
 
 # - name: Estimate distance between two locations using Google Distance Matrix API [Python]
