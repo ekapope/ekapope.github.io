@@ -12,7 +12,7 @@
 - name: Q3-2018 Condomenium market dashboard - Bangkok, Thailand [PowerBI]
   i18n: 
   url: https://app.powerbi.com/view?r=eyJrIjoiZWI0MTc3MWMtMDU2MC00MGYyLWI1N2UtZmY1NDkwMGViMjI5IiwidCI6IjA4OTgzZGFmLTVhY2EtNGY0NC1iYzY1LWMyM2NlMzJkNDZlYyIsImMiOjh9
-  img: https://www.123rf.com/photo_61247934_stock-vector-condominium-and-magnifying-glass-vector-sketch-icon-isolated-on-background-hand-drawn-condominium-an.html
+  img: https://github.com/ekapope/Baania-webscraping/blob/master/PowerBI_Capture.PNG?raw=true
   desc: Using data extracted from web scraping to build interactive dashboard for market analysis.
 
 - name: Weather Alert Notification via Gmail and Twitter [Python]
