@@ -1,10 +1,14 @@
+# # blog page sections
+# - name: Blog
+#   href: /blog/
+
 # blog page sections
 - name: Blog
-  href: /blog/
+  href: https://medium.com/@ekapope.v/everyday-python-ep-01-create-your-own-weather-alert-using-facebook-messenger-chat-807f66f76034
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
-- name: Python
-  href: /python/
+# - name: Python
+#   href: /python/
 
 #- name: Linux
 #  href: /linux/
@@ -18,8 +22,8 @@
 #- name: Mac
 #  href: /mac/
 
-- name: Life
-  href: /life/
+# - name: Life
+#   href: /life/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 #- name: Donate
