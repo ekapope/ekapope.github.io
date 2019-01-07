@@ -12,8 +12,8 @@
 - name: Q3-2018 Condomenium market dashboard - Bangkok, Thailand [PowerBI]
   i18n: 
   url: https://app.powerbi.com/view?r=eyJrIjoiZWI0MTc3MWMtMDU2MC00MGYyLWI1N2UtZmY1NDkwMGViMjI5IiwidCI6IjA4OTgzZGFmLTVhY2EtNGY0NC1iYzY1LWMyM2NlMzJkNDZlYyIsImMiOjh9
-  img: https://github.com/ekapope/Baania-webscraping/blob/master/PowerBI_Capture.PNG
-  desc: Using data extracted from web scraping to build dashboard for condomenium market analysis.
+  img: https://www.123rf.com/photo_61247934_stock-vector-condominium-and-magnifying-glass-vector-sketch-icon-isolated-on-background-hand-drawn-condominium-an.html
+  desc: Using data extracted from web scraping to build interactive dashboard for market analysis.
 
 - name: Weather Alert Notification via Gmail and Twitter [Python]
   i18n: 
@@ -59,7 +59,7 @@
 #  i18n: cpython
 #  gh_user: python
 #  repo: cpython
-# img: /static/assets/img/landing/python.png
+#  img: /static/assets/img/landing/python.png
 #  desc: This project is other's project. I use another request to get repo's information.
 
 #- name: Google
