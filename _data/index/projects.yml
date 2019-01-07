@@ -2,6 +2,12 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
+- name: Personal Blog [Medium]
+  i18n: 
+  url: https://medium.com/@ekapope.v
+  img: https://medium.com/icons/monogram-mask.svg
+  desc: My personal blog related to every application of programming and automation
+  
 - name: Web Scraping property listings from property listing site in Thailand  [Python]
   i18n: 
   gh_user: Ekapope
@@ -60,6 +66,7 @@
   url: https://public.tableau.com/profile/ekapope#!/vizhome/20181207_Yelp_Assignment_Ekapope_Viriyakovithya_1024x768/YelpDatasetAnalysisEkapopeViriyakovithya
   img: https://s3-media2.fl.yelpcdn.com/assets/srv0/yelp_large_assets/19f90cad684f/assets/img/brand_guidelines/Yelp_RGB_fullcolor_outline.png
   desc: The data is extracted and subsetted from the Yelp webpage [https://www.yelp.com/dataset/challenge], with only 5000 businesses. 
+
 
 
 #- name: Python
