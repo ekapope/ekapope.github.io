@@ -8,12 +8,12 @@
   img: https://medium.com/icons/monogram-mask.svg
   desc: My personal blog related to useful applications of programming and automated tasks.
 
-- name: Web Scraping property listings from property listing site in Thailand  [Python]
-  i18n: 
-  gh_user: Ekapope
-  repo: Baania-webscraping
-  img: https://lh5.googleusercontent.com/p/AF1QipMcNIKYrIRK4WQHgvURGwb5vqsvEb6zPVkth0qn=w233-h252-p-k-no
-  desc: This is the first episode of web scraping project which focused on condominium listings in Bangkok, Thailand.
+# - name: Web Scraping property listings from property listing site in Thailand  [Python]
+#   i18n: 
+#   gh_user: Ekapope
+#   repo: Baania-webscraping
+#   img: https://lh5.googleusercontent.com/p/AF1QipMcNIKYrIRK4WQHgvURGwb5vqsvEb6zPVkth0qn=w233-h252-p-k-no
+#   desc: This is the first episode of web scraping project which focused on condominium listings in Bangkok, Thailand.
 
 - name: Q3-2018 Condominium market dashboard - Bangkok, Thailand [PowerBI]
   i18n: 
@@ -21,12 +21,12 @@
   img: https://github.com/ekapope/Baania-webscraping/blob/master/PowerBI_Capture.PNG?raw=true
   desc: Using data extracted from web scraping to build interactive dashboard for market analysis.
 
-- name: Weather Alert Notification via Gmail and Twitter [Python]
-  i18n: 
-  gh_user: Ekapope
-  repo: WeatherAlertNotification
-  img: https://cerebral-overload.com/wp-content/uploads/2018/01/Accuweather-Logo.png
-  desc: Weather Alert Notification via Gmail and Twitter API [data from AccuWeather API]. Since you are checking emails and social media anyway, do not waste your time checking the weather on the separated app. It is now live on your mail box and twitter feed!
+# - name: Weather Alert Notification via Gmail and Twitter [Python]
+#   i18n: 
+#   gh_user: Ekapope
+#   repo: WeatherAlertNotification
+#   img: https://cerebral-overload.com/wp-content/uploads/2018/01/Accuweather-Logo.png
+#   desc: Weather Alert Notification via Gmail and Twitter API [data from AccuWeather API]. Since you are checking emails and social media anyway, do not waste your time checking the weather on the separated app. It is now live on your mail box and twitter feed!
 
 - name: Weather Alert Notification via Facebook Chat [Python]
   i18n: 
@@ -42,30 +42,30 @@
 #   img: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/GoogleMaps_logo.svg/1011px-GoogleMaps_logo.svg.png
 #   desc: Estimated distance between properties and metro stations using google map API, then use this data in the ML model for property price prediction.
 
-- name: Using multiple ML models to predict condominium price [Python]
-  i18n: 
-  gh_user: Ekapope
-  repo: Using-multiple-models-to-predict-condominium-price-in-Bangkok-Thailand
-  img: https://www.azernews.az/media/pictures/housing-prices-420x0.jpg
-  desc: Using scraped data from the website, predicted condominium price in Bangkok, Thailand using Python.
+# - name: Using multiple ML models to predict condominium price [Python]
+#   i18n: 
+#   gh_user: Ekapope
+#   repo: Using-multiple-models-to-predict-condominium-price-in-Bangkok-Thailand
+#   img: https://www.azernews.az/media/pictures/housing-prices-420x0.jpg
+#   desc: Using scraped data from the website, predicted condominium price in Bangkok, Thailand using Python.
 
-- name: Internet Sports Gambling Activity [R - Shiny]
-  i18n:
-  url: https://ekapopev.shinyapps.io/Open-Source-Group-11/
-  img: https://amp.businessinsider.com/images/55a89cf42acae732118b73ee-750-563.jpg
-  desc: Data from bwin Interactive Entertainment AG, created ‘marketing data mart’ and  explored marketing insights. Presented in R markdown and Shiny app. 
+# - name: Internet Sports Gambling Activity [R - Shiny]
+#   i18n:
+#   url: https://ekapopev.shinyapps.io/Open-Source-Group-11/
+#   img: https://amp.businessinsider.com/images/55a89cf42acae732118b73ee-750-563.jpg
+#   desc: Data from bwin Interactive Entertainment AG, created ‘marketing data mart’ and  explored marketing insights. Presented in R markdown and Shiny app. 
 
-- name: 2013 NYC flight delays anylysis [Tableau]
-  i18n: 
-  url: https://public.tableau.com/profile/ekapope#!/vizhome/NYCFlightsDataAnalysis-Group5_0/NYCFlightsDataAnalysis
-  img: https://static-s.aa-cdn.net/img/ios/780465361/2ea929c97d600cfc7325d4f42b2faa53?v=1
-  desc: Investigate different aspects of delays from the different New York City airports. [https://cran.r-project.org/web/packages/nycflights13/index.html]
+# - name: 2013 NYC flight delays anylysis [Tableau]
+#   i18n: 
+#   url: https://public.tableau.com/profile/ekapope#!/vizhome/NYCFlightsDataAnalysis-Group5_0/NYCFlightsDataAnalysis
+#   img: https://static-s.aa-cdn.net/img/ios/780465361/2ea929c97d600cfc7325d4f42b2faa53?v=1
+#   desc: Investigate different aspects of delays from the different New York City airports. [https://cran.r-project.org/web/packages/nycflights13/index.html]
 
-- name: 2018 Yelp Dataset Analysis [Tableau]
-  i18n: 
-  url: https://public.tableau.com/profile/ekapope#!/vizhome/20181207_Yelp_Assignment_Ekapope_Viriyakovithya_1024x768/YelpDatasetAnalysisEkapopeViriyakovithya
-  img: https://s3-media2.fl.yelpcdn.com/assets/srv0/yelp_large_assets/19f90cad684f/assets/img/brand_guidelines/Yelp_RGB_fullcolor_outline.png
-  desc: The data is extracted and subsetted from the Yelp webpage [https://www.yelp.com/dataset/challenge], with only 5000 businesses. 
+# - name: 2018 Yelp Dataset Analysis [Tableau]
+#   i18n: 
+#   url: https://public.tableau.com/profile/ekapope#!/vizhome/20181207_Yelp_Assignment_Ekapope_Viriyakovithya_1024x768/YelpDatasetAnalysisEkapopeViriyakovithya
+#   img: https://s3-media2.fl.yelpcdn.com/assets/srv0/yelp_large_assets/19f90cad684f/assets/img/brand_guidelines/Yelp_RGB_fullcolor_outline.png
+#   desc: The data is extracted and subsetted from the Yelp webpage [https://www.yelp.com/dataset/challenge], with only 5000 businesses. 
 
 
 
