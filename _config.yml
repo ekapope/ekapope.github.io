@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Welcome to Ekapope Viriyakovithya's page
+title: Ekapope Viriyakovithya's page
 description: Ekapope's blog,use Jekyll and github pages.
 keywords: Ekapope,Viriyakovithya,blog,Jekyll,github,gh-pages
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: My name is Ekapope Viriyakovithya. I am currently pursuing M.Sc. Big Data Analytics for Business at IÉSEG School of Management [Lille, France]. My studies focus on several Business Analytics and Decision Making Tools both theoretical principles and operational analytical predictive modeling. With my past professional experiences, I developed a strong background in analytical thinking  and became a fact-based decision maker. # Describe yourself.
+  desc: My name is Ekapope Viriyakovithya. I am currently pursuing M.Sc. Big Data Analytics for Business at IÉSEG School of Management [Lille, France]. My studies focus on several Business Analytics and Decision Making Tools both theoretical and operational hands-on projects. With my past professional experiences, I developed a strong background in analytical thinking  and became a fact-based decision maker. # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
