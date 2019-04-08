@@ -10,8 +10,8 @@
 
 - name: Weather Alert Notification via Facebook Chat [Python]
   i18n: 
-  repo: Weather_Alert_Notification_Facebook_Chat
-  img: https://medium.freecodecamp.org/how-to-get-facebook-messenger-to-notify-you-about-the-weather-8b5e87a64540
+  url: https://medium.freecodecamp.org/how-to-get-facebook-messenger-to-notify-you-about-the-weather-8b5e87a64540
+  img: https://images.pexels.com/photos/125510/pexels-photo-125510.jpeg?cs=srgb&dl=blur-cars-dew-125510.jpg
   desc: Weather Alert Notification via Facebook Chat [data from AccuWeather API]. A simplified version of automated weather alert, no need for facebook API.
 
 - name: IMDB Movie Reviews Sentiment Analysis [R - Shiny]
