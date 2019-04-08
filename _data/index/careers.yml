@@ -4,7 +4,7 @@
     detail: IÉSEG School of Management [Lille, France]
     i18n: 
   desc:
-    detail: Hands on experiences of data science tools [Python, R, SAS, SQL,Tableau, PowerBI, Excel VBA]. Descriptive and predictive analytics, statistical and machine learning algorithms.
+    detail: Hands on experiences of data science technologies [Python, R, SAS, SQL,Tableau, PowerBI, Excel VBA]. Descriptive and predictive analytics, statistical and machine learning algorithms.
 
     i18n: 
   date:
@@ -19,7 +19,7 @@
     detail: Pinpoint Geophysics
     i18n:  
   desc:
-    detail: Used statistically approaches to analyze Geophysical Prove Out activities, benchmarked with the client's specific Data Quality Objective standards, and summarized findings for clients. Processsed, interpreted and reported Geonics EM61 and EM63 geophysical data for UXO detection, GIS and data management. Trained junior members in the use of processing softwares (Geosoft Oasis Montaj, QGIS)
+    detail: Processsed, interpreted and reported geophysical data for UXO detection, GIS and data management. Delivered and summarized findings to clients, ensured data quality was up to standard.  Trained junior members in the use of processing softwares (Geosoft Oasis Montaj, QGIS)
     i18n:  
   date:
     detail: Jun 2017 to Jun 2018
@@ -33,13 +33,13 @@
     detail: Schlumberger
     i18n: 
   desc:
-    detail: Project leader of asset traceability implementation for Thailand, Myanmar and Vietnam. Developed workflow and coached internal staffs.  The goal was to improve data capture accuracy, asset utilization and traceability using Tableau platform. Up to 20% of under-utilized assets were transferred to the centralized facility to maximize asset utilization.
+    detail: Worked offshore as Wireline Field Engineer in Gulf of Thailand. Led asset traceability implementation project for Thailand, Myanmar and Vietnam. Developed workflow and coached internal staffs.  The goal was to improve data capture accuracy, asset utilization and traceability using Tableau platform. Under-utilized assets were transferred to the centralized facility to maximize asset utilization.
     i18n: 
   date:
     detail: Jul 2011 - Oct 2016
     i18n: 
   job:
-    detail: Senior Field Engineer - Wireline
+    detail: Senior Field Engineer
     i18n: 
   icon: fa-plus-square
 
@@ -47,7 +47,7 @@
     detail: Chulalongkorn University [Bangkok, Thailand]
     i18n: 
   desc:
-    detail: Focused on application of mathematical reservoir model simulation for hydrocarbon-in-place estimation, production optimization strategies, petroleum economics and upstream oil industry operations. Thesis topic was simulation of water coning control for gas production optimization in the Bongkot field, Gulf of Thailand.
+    detail: Focused on application of mathematical reservoir model simulation for hydrocarbon-in-place estimation, production optimization strategies, petroleum economics and upstream oil industry operations. Thesis topic 'simulation of water coning control for gas production optimization in the Bongkot field, Gulf of Thailand'.
     i18n: 
   date:
     detail: June 2007 - May 2011

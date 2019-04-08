@@ -55,11 +55,11 @@
   img: https://amp.businessinsider.com/images/55a89cf42acae732118b73ee-750-563.jpg
   desc: Data from bwin Interactive Entertainment AG, created ‘marketing data mart’ and  explored marketing insights. Presented in R markdown and Shiny app. 
 
-# - name: 2013 NYC flight delays anylysis [Tableau]
-#   i18n: 
-#   url: https://public.tableau.com/profile/ekapope#!/vizhome/NYCFlightsDataAnalysis-Group5_0/NYCFlightsDataAnalysis
-#   img: https://static-s.aa-cdn.net/img/ios/780465361/2ea929c97d600cfc7325d4f42b2faa53?v=1
-#   desc: Investigate different aspects of delays from the different New York City airports. [https://cran.r-project.org/web/packages/nycflights13/index.html]
+- name: 2013 NYC flight delays anylysis [Tableau]
+  i18n: 
+  url: https://public.tableau.com/profile/ekapope#!/vizhome/NYCFlightsDataAnalysis-Group5_0/NYCFlightsDataAnalysis
+  img: https://static-s.aa-cdn.net/img/ios/780465361/2ea929c97d600cfc7325d4f42b2faa53?v=1
+  desc: Investigate different aspects of delays from the different New York City airports. [https://cran.r-project.org/web/packages/nycflights13/index.html]
 
 # - name: 2018 Yelp Dataset Analysis [Tableau]
 #   i18n: 
@@ -67,6 +67,19 @@
 #   img: https://s3-media2.fl.yelpcdn.com/assets/srv0/yelp_large_assets/19f90cad684f/assets/img/brand_guidelines/Yelp_RGB_fullcolor_outline.png
 #   desc: The data is extracted and subsetted from the Yelp webpage [https://www.yelp.com/dataset/challenge], with only 5000 businesses. 
 
+- name: Portfolio optimization [Python - R - AMPL]
+  i18n: 
+  gh_user: Ekapope
+  repo: Portfolio-Optimization
+  img: https://images.unsplash.com/photo-1504355080015-bba52674577b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80
+  desc: Create a model using AMPL to propose investors to effectively manage their stocks and to invest on the most profitable stocks. We collected stock market data of 500 companies from IEX Group and allocated the assets based on the principle of portfolio optimization.
+
+- name: IMDB Movie Reviews Sentiment Analysis [R - Shiny]
+  i18n: 
+  gh_user: Ekapope
+  repo: IMDb_Sentiment_Analysis
+  img: https://images.unsplash.com/photo-1543769657-fcf1236421bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80
+  desc: We created a shiny app for sentiment classification (Positive / Negative) based on IMDB movie review dataset. Classification performs with an AUC of 91%. Apart from the classification task the shiny app also provides visualizations that generate insights into the test reviews data.
 
 
 #- name: Python
