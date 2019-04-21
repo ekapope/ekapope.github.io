@@ -4,7 +4,7 @@
     detail: IÉSEG School of Management [Lille, France]
     i18n: 
   desc:
-    detail: Hands on experiences of data science technologies [Python, R, SAS, SQL,Tableau, PowerBI, Excel VBA]. Descriptive and predictive analytics, statistical and machine learning algorithms.
+    detail: Hands on experiences of data science technologies [Python, R, SAS, SQL, Tableau, PowerBI, Excel VBA]. Descriptive and predictive analytics, statistical and machine learning algorithms.
 
     i18n: 
   date:
@@ -22,10 +22,10 @@
     detail: Processsed, interpreted and reported geophysical data for UXO detection, GIS and data management. Delivered and summarized findings to clients, ensured data quality was up to standard.  Trained junior members in the use of processing softwares (Geosoft Oasis Montaj, QGIS)
     i18n:  
   date:
-    detail: Jun 2017 to Jun 2018
+    detail: Jun 2017 - Jun 2018
     i18n:  
   job:
-    detail: UXO Geophysicist
+    detail: Data Processing UXO Geophysicist 
     i18n:  
   icon: fa-plus-square
 
@@ -39,7 +39,7 @@
     detail: Jul 2011 - Oct 2016
     i18n: 
   job:
-    detail: Senior Field Engineer
+    detail: Senior Field Engineer - Reservoir Evaluation Wireline
     i18n: 
   icon: fa-plus-square
 
