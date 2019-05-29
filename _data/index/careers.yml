@@ -4,7 +4,7 @@
     detail: IÉSEG School of Management [Lille, France]
     i18n: 
   desc:
-    detail: Hands on experiences of data science technologies [Python, R, SAS, SQL, Tableau, PowerBI, Excel VBA]. Descriptive and predictive analytics, statistical and machine learning algorithms.
+    detail: Hands on experiences of data science technologies [Python, R, SAS Base (9.4), SQL, Excel VBA, Databricks, PySpark, Hadoop, Tableau, PowerBI]. Descriptive and predictive analytics, statistical and machine learning algorithms.
 
     i18n: 
   date:
