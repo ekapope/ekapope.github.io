@@ -26,7 +26,7 @@
   gh_user: Ekapope
   repo: Predicting-condominium-price-using-data-from-webscraping
   img: https://images.unsplash.com/photo-1545153943-f4ded7fab6a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
-  desc: This project uses Selenium library to firstly obtain all condominiums listed on the https://www.hipflat.com/ website, and extracts information for each page using BeautifulSoup package. This project is focused on condominium listings in Bangkok, both new and resale. Even this dataset is quite small with lots of features and we can only predict the price per square meters for each condo, however, this study is very useful for buyers, resellers, agents and even developers to justify the 'fair price' as a starting point based on the current actual market data.
+  desc: This project uses Selenium library to firstly obtain all condominiums listed on the hipflat.com website, and extracts information for each page using BeautifulSoup package. This project is focused on condominium listings in Bangkok, both new and resale. This study is very useful for buyers, resellers, agents and even developers to justify the 'fair price' as a starting point based on the current actual market data.
 
 - name: Q3-2018 Condominium Market Report - Bangkok, Thailand [PowerBI]
   i18n: 
