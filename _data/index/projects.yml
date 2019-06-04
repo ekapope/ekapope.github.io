@@ -6,11 +6,11 @@
   i18n: 
   url: https://medium.com/@ekapope.v
   img: https://medium.com/icons/monogram-mask.svg
-  desc: My personal blog related to useful applications of programming and automated tasks.
+  desc: My personal blog related to useful application of programmings and automated tasks.
 
 - name: Weather Alert Notification via Facebook Chat [Python]
   i18n: 
-  url: https://medium.freecodecamp.org/how-to-get-facebook-messenger-to-notify-you-about-the-weather-8b5e87a64540
+  url: https://hackernoon.com/how-to-get-facebook-messenger-to-notify-you-about-the-weather-8635282ef7ad
   img: https://images.pexels.com/photos/125510/pexels-photo-125510.jpeg?cs=srgb&dl=blur-cars-dew-125510.jpg
   desc: Weather Alert Notification via Facebook Chat [data from AccuWeather API]. A simplified version of automated weather alert, no need for facebook API.
 
