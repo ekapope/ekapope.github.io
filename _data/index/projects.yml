@@ -10,7 +10,7 @@
 
 - name: Weather Alert Notification via Facebook Chat [Python]
   i18n: 
-  url: https://hackernoon.com/how-to-get-facebook-messenger-to-notify-you-about-the-weather-8635282ef7ad
+  url: https://medium.com/free-code-camp/how-to-get-facebook-messenger-to-notify-you-about-the-weather-8b5e87a64540
   img: https://images.pexels.com/photos/125510/pexels-photo-125510.jpeg?cs=srgb&dl=blur-cars-dew-125510.jpg
   desc: Weather Alert Notification via Facebook Chat [data from AccuWeather API]. A simplified version of automated weather alert, no need for facebook API.
 
