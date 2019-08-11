@@ -1,68 +1,183 @@
----
-layout: blog
-title: index
-permalink: /
----
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Ekapope Viriyakovithya - Data Scientist - PORTFOLIO</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
-<div class="navbar-wrapper">
-  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
-      <div class="navbar-header page-scroll">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="#page-top" id="i18_title"><span data-i18n="website.title">{{ site.title }}</span></a>
-      </div>
-      <div id="navbar" class="navbar-collapse collapse">
-        <ul class="nav navbar-nav navbar-right" id="i18_navbar">
-          {% for section in site.data.landing %}
-          <li>
-            {% if section.page %}
-              <a class="page-scroll" href="{{ section.page}} ">
-            {% else %}
-              <a class="page-scroll" href="{{ section.id | prepend: '#'}} ">
-            {% endif %}
-              <span data-i18n="{{ section.i18n }}">{{ section.name }}</span>
-            </a>
-          </li>
-          {% endfor %}
-          {% for language in site.data.index.language %}
-          <li>
-            <a id="set_lang_{{ language.locale }}" class="btn btn-sm set_{{ language.locale }}" data-locale="{{ language.locale }}">
-              <img src="{{ language.flag | prepend: site.baseurl }}" height="16" width="16">
-            </a>
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-  </nav>
-</div>
-{% if site.index_carousel %}
-{% include carousel.html %}
-{% endif %}
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
 
-{% for section in site.data.landing %}
-{% assign loopindex = forloop.index | modulo: 2 %}
-<section id="{{ section.id }}" class="features {% if loopindex != 1 %} gray-section {% endif %} {{ section.css }}" style="margin-top: 0;">
-  {% include sections/{{section.tpl}} %}
-</section>
-{% endfor %}
-<style>
-iframe {
-  -moz-transform: scale(0.25, 0.25);
-  -webkit-transform: scale(0.25, 0.25);
-  -o-transform: scale(0.25, 0.25);
-  -ms-transform: scale(0.25, 0.25);
-  transform: scale(0.25, 0.25);
-  -moz-transform-origin: top left;
-  -webkit-transform-origin: top left;
-  -o-transform-origin: top left;
-  -ms-transform-origin: top left;
-  transform-origin: top left;
-}
-</style>
-<!-- <iframe src="https://www.maimemo.com/share/page/?uid=779139&pid=660" style="display: none;"></iframe> -->
+				<!-- Intro -->
+					<div id="intro">
+						<h1> Ekapope <br />
+						Viriyakovithya</h1>
+						<p>A few of my favourite pieces of work.
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">A few of my favourite pieces of work.</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<!-- <a href="index.html" class="logo">Massively</a> -->
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<!-- <li class="active"><a href="index.html">This is Massively</a></li> -->
+							<!-- <li><a href="generic.html">Generic Page</a></li> -->
+							<!-- <li><a href="elements.html">Elements Reference</a></li> -->
+						</ul>
+						<ul class="icons">
+							<li><a href="https://www.linkedin.com/in/Ekapope" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="https://github.com/ekapope" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="https://medium.com/@ekapope.v" class="icon brands fa-medium"><span class="label"><Medium></span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<!-- <span class="date">April 25, 2017</span> -->
+									<h2><a href="https://www.freecodecamp.org/news/author/ekapope/">Programming <br />
+										tips & tricks articles</a></h2>
+									<p>My articles on programming tips & tricks and everyday task automations.</p>
+								</header>
+								<a href="https://www.freecodecamp.org/news/author/ekapope/" class="image main"><img src="images/pic01.jpg" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="https://www.freecodecamp.org/news/author/ekapope/" class="button large">Check it out!
+									</a></li>
+								</ul>
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										<!-- <span class="date">April 24, 2017</span> -->
+										<h2><a href="https://www.freecodecamp.org/news/obtain-historical-weather-forecast-data-in-csv-format-using-python/">API wrapper<br />
+										WorldWeatherOnline</a></h2>
+									</header>
+									<a href="https://www.freecodecamp.org/news/obtain-historical-weather-forecast-data-in-csv-format-using-python/" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
+									<p>This package is used to retrieve and transform historical weather data from www.worldweatheronline.com into pandas dataframe and csv.<p>
+									<ul class="actions special">
+										<li><a href="https://github.com/ekapope/WorldWeatherOnline" class="button">Github code</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<!-- <span class="date">April 22, 2017</span> -->
+										<h2><a href="https://www.freecodecamp.org/news/how-to-get-facebook-messenger-to-notify-you-about-the-weather-8b5e87a64540/">Weather Alert Notification  <br />
+											via Facebook Chat</a></h2>
+									</header>
+									<a href="https://www.freecodecamp.org/news/how-to-get-facebook-messenger-to-notify-you-about-the-weather-8b5e87a64540/" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
+									<p>Weather Alert Notification via Facebook Chat [data from AccuWeather API].
+											A simplified version of automated weather alert, no need to register facebook developer API.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/ekapope/Weather_Alert_Notification_Facebook_Chat" class="button">Github code</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<!-- <span class="date">April 18, 2017</span> -->
+										<h2><a href="https://app.powerbi.com/view?r=eyJrIjoiZWI0MTc3MWMtMDU2MC00MGYyLWI1N2UtZmY1NDkwMGViMjI5IiwidCI6IjA4OTgzZGFmLTVhY2EtNGY0NC1iYzY1LWMyM2NlMzJkNDZlYyIsImMiOjh9">Bangkok Condominium  <br />
+											Market Report</a></h2>
+									</header>
+									<a href="https://app.powerbi.com/view?r=eyJrIjoiZWI0MTc3MWMtMDU2MC00MGYyLWI1N2UtZmY1NDkwMGViMjI5IiwidCI6IjA4OTgzZGFmLTVhY2EtNGY0NC1iYzY1LWMyM2NlMzJkNDZlYyIsImMiOjh9" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
+									<p>Using data extracted from web scraping to build interactive dashboard for condo market analysis.</p>
+									<ul class="actions special">
+										<li><a href="https://app.powerbi.com/view?r=eyJrIjoiZWI0MTc3MWMtMDU2MC00MGYyLWI1N2UtZmY1NDkwMGViMjI5IiwidCI6IjA4OTgzZGFmLTVhY2EtNGY0NC1iYzY1LWMyM2NlMzJkNDZlYyIsImMiOjh9" class="button">Check out dashboard</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<!-- <span class="date">April 14, 2017</span> -->
+										<h2><a href="https://github.com/ekapope/Predicting-condominium-price-using-data-from-webscraping">Web scraping<br />
+											Predicting condominium price</a></h2>
+									</header>
+									<a href="https://github.com/ekapope/Predicting-condominium-price-using-data-from-webscraping" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
+									<p>This project uses Selenium library to firstly obtain all condominiums listed on the hipflat.com website, and extracts information for each page using BeautifulSoup package. This project is focused on condominium listings in Bangkok, both new and resale. This study is very useful for buyers, resellers, agents and even developers to justify the 'fair price' as a starting point based on the current actual market data.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/ekapope/Predicting-condominium-price-using-data-from-webscraping" class="button">github code</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<!-- <span class="date">April 11, 2017</span> -->
+										<h2><a href="https://github.com/ekapope/IMDb_Sentiment_Analysis">Sentiment Analysis<br />
+											IMDB Movie Reviews </a></h2>
+									</header>
+									<a href="https://github.com/ekapope/IMDb_Sentiment_Analysis" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
+									<p>Shiny app for sentiment classification (Positive / Negative) based on IMDB movie review dataset. Classification performs with an AUC of 91%. Apart from the classification task the shiny app also provides visualizations that generate insights into the test reviews data.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/ekapope/IMDb_Sentiment_Analysis" class="button">github code</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<!-- <span class="date">April 7, 2017</span> -->
+										<h2><a href="https://towardsdatascience.com/10-step-guide-to-schedule-your-script-using-cloud-services-7f4a8e517d81">
+											10-Step guide to schedule your script using cloud services<br />
+											for free</a></h2>
+									</header>
+									<a href="https://towardsdatascience.com/10-step-guide-to-schedule-your-script-using-cloud-services-7f4a8e517d81" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
+									<p>Why can’t I just run it on my laptop? Well…, you can run it locally and I believe many people probably know task scheduler function if you are Windows users. We set the trigger time and conditions, the script will be run based on our pre-defined criteria. However, the drawback on this is that you need to keep your computer ‘power on’ at the scheduled time (if not all the time).</p>
+									<ul class="actions special">
+										<li><a href="https://towardsdatascience.com/10-step-guide-to-schedule-your-script-using-cloud-services-7f4a8e517d81" class="button">Full Story</a></li>
+									</ul>
+								</article>
+							</section>
+
+
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						</section>
+						<section class="split contact">
+							<section>
+								<h3>contact me</h3>
+								<ul class="icons alt">
+									<li><a href="https://www.linkedin.com/in/Ekapope" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									<li><a href="https://github.com/ekapope" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://medium.com/@ekapope.v" class="icon brands fa-medium"><span class="label"><Medium></span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+				<!-- Copyright -->
+				<div id="copyright">
+						<ul>
+							<li>&copy; Ekapope Viriyakovithya</li>
+							<li> Photos: <a href="https://unsplash.com/">Unsplash</a></li>
+							<li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+						</ul>
+				</div>
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
